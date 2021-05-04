@@ -18,4 +18,4 @@ This transit, paired with the springing of March & the slow-burn ending of brood
 
 ---
 
-▶️ [Play with the code](https://codepen.io/jomiapangilinan/pen/xxRJpKv)
+▶️ [Play with the code](https://codepen.io/jomiapangilinan/full/xxRJpKv)
